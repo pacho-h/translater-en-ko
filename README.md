@@ -7,3 +7,6 @@ macOS 에서 사용 하기 위한 영어 번역, 단어 사전 검색 automator(
 3. 원하는 단축키를 설정한다.
 4. 웹페이지(일부 웹페이지 상에서 동일한 단축키를 사용하고 있는 경우 제외), PDF, 텍스트 편집기 등 어디서든 원하는 문장, 단어를 선택(드래그)한 후 위에서 설정한 단축키를 입력하면 팝업 창이 실행 된다.
 
+## Demonstrate
+
+https://github.com/pacho-h/translater-en-ko/assets/60774902/019ba639-3ad8-4c0f-8ae5-c6e86672e68f
