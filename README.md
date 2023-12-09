@@ -4,6 +4,8 @@ macOS 에서 사용 하기 위한 영어 번역, 단어 사전 검색 automator(
 ## Install
 1. 압축 해제 후 .workflow 파일을 실행하면 macOS에 "서비스"로 설치된다.
 2. 시스템설정 > 키보드 > 키보드 단축키 > 서비스 탭에서 "텍스트" 하위 목록에 설치한 서비스(파파고번역 or 네이버영어사전)이 추가 된다.
+
+
 ![image](https://github.com/pacho-h/translater-en-ko/assets/60774902/a4c9ebc3-f667-4732-9934-084029addcc7)
 
 3. 원하는 단축키를 설정한다.
